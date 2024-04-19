@@ -1,0 +1,23 @@
+nav {
+    display:flex
+}
+
+#logo {
+    height: 150px;
+}
+
+.navlist {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+p, ul{
+    font-size: 1.5em;
+    font-family: 'Print Clearly';
+    font-weight: 580;
+}
+
+h1, h2 {
+    font-family: 'Saudagar', sans-serif;
+}
