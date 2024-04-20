@@ -18,6 +18,10 @@ p, ul{
     font-weight: 580;
 }
 
+strong {
+    font-weight: 580;
+}
+
 h1, h2 {
     font-family: 'Saudagar', sans-serif;
 }
