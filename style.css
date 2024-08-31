@@ -12,6 +12,14 @@ nav {
     justify-content: space-between;
 }
 
+.navlist a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 p, ul{
     font-size: 1.5em;
     font-family: 'Print Clearly';
@@ -22,6 +30,15 @@ strong {
     font-weight: 580;
 }
 
+h1 {
+    text-align: center;
+}
+
 h1, h2 {
     font-family: 'Saudagar', sans-serif;
+}
+
+main {
+    width: 70%;
+    margin:auto;
 }
